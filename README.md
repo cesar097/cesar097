@@ -8,33 +8,16 @@
 
 ## 🛠️ Tecnologías
 
-### 1. HTML
-![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
-
-### 2. CSS
-![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
-
-### 3. JavaScript
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
-
-### 4. React
-![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-
-### 5. Astro
-![Astro](https://astro.build/assets/press/astro-logo-light.svg)
-
-### 6. Tailwind CSS
-![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg)
-
-### 7. Git
-![Git](https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg)
-
-### 8. GitHub
-![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
-
----
-
-💡 *Puedes personalizar las imágenes, colores o estilos dependiendo de tu preferencia.*
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="60" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="40" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="45" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" style="margin: 10px;"/>
+  <img src="https://astro.build/assets/press/astro-logo-light.svg" alt="Astro" width="90" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="50" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="45" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="45" style="margin: 10px;"/>
+</p>
 
 
 
