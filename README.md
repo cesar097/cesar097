@@ -1,8 +1,18 @@
 ## Hi there 👋, I'm Cesar
 👨‍💻 Developer. | 👨‍🚀 Platzi Student and life.
 
-### Vias de contacto
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fcesarospino.vercel.app%2F)
+## 👨‍💻 Perfil Profesional
+
+- **Nombre:** César ospino
+- **Profesión:** Licenciado en Informática y Medios Audiovisuales | Desarrollador Web
+- **Email:** cospino097@gmail.com
+- **Intereses Personales:** Desarrollo web, educación, tecnológica y robotica.
+- **LinkedIn:** [linkedin.com/in/cesarospino](https://www.linkedin.com/in/cesar-arturo-ospino-agamez-302586170/)
+- **Twitter:** [@cesarospino](https://x.com/cesar_osag)
+
+## 📬 Vías de Contacto
+
+ ![Website](https://img.shields.io/website?down_color=red&down_message=Offline&style=for-the-badge&up_color=blue&up_message=Online&url=https%3A%2F%2Fcesarospino.vercel.app%2F)
 
 # Lenguajes y Tecnologías que Domino
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;>
@@ -12,3 +22,7 @@
 | ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 </p>
+
+## 📂 Mis Proyectos
+
+⬇️ **Desplázate hacia abajo para ver mis proyectos** ⬇️
