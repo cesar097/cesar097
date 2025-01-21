@@ -23,6 +23,11 @@
 | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 </p>
 
+## :zap: Actividad reciente
+<!--START_SELECTION:activity--!>
+
+<!--END_SELECTION:activity--!>
+
 ## 📂 Mis Proyectos
 
 ⬇️ **Desplázate hacia abajo para ver mis proyectos** ⬇️
