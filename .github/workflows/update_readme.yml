@@ -11,7 +11,11 @@ jobs:
     name: Update Profile README
     
     steps:
-      - name: Checkout repository
-        - uses: Readme-Workflows/recent-activity@v2.4.1
+           - name: Checkout repository
+        uses: actions/checkout@v2
+
       - name: Update README with recent activity
-        uses: cospino097/cospino097@gmail.com
+        uses: Readme-Workflows/recent-activity@v2.4.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
