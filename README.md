@@ -24,9 +24,9 @@
 </p>
 
 ## :zap: Actividad reciente
-<!--START_SELECTION:activity--!>
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SELECTION:activity--!>
+<!--RECENT_ACTIVITY:end-->
 
 ## 📂 Mis Proyectos
 
