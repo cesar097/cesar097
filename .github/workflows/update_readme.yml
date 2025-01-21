@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2  # Clona el repositorio
+        uses: actions/checkout@v2
 
       - name: Update README with recent activity
         uses: Readme-Workflows/recent-activity@v2.4.1
