@@ -12,6 +12,6 @@ jobs:
     
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        - uses: Readme-Workflows/recent-activity@v2.4.1
       - name: Update README with recent activity
         uses: cospino097/cospino097@gmail.com
